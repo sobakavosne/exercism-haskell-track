@@ -1,2 +1,2 @@
-# exercism-haskell-track
+# Haskell track
 Practice mode for Haskell via "Exercism" project 
