@@ -5,7 +5,7 @@ dependencies:
   - base
 
 library:
-  exposed-modules: DNA
+  exposed-modules: DNABestSolution
   source-dirs: src
   ghc-options: -Wall
   # dependencies:
